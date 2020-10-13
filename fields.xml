@@ -47,21 +47,13 @@ http://www.brreg.no/samordning/organisasjonsnummeret.html</content>
      
    <field>
 	<name>Næringskode</name>
-	<shortName>nace_5</shortName>
+	<shortName>Naeringskode</shortName>
 	<groupable>true</groupable>
 	<searchable>false</searchable>
 	<content>Næringskode i henhold til SN2007 standard https://www.ssb.no/klass/klassifikasjoner/6 </content>
   </field>
 
-   <field>
-	<name>Næringshovedområde</name>
-	<shortName>nace_hovedomraade</shortName>
-	<groupable>true</groupable>
-	<searchable>true</searchable>
-	<content>Næringshovedområde i henhold til SN2007 standard https://www.ssb.no/klass/klassifikasjoner/6 </content>
-  </field>
-
-   <field>
+     <field>
 	<name>Kommunenummer</name>
 	<shortName>nace_hovedomraade</shortName>
 	<groupable>false</groupable>
@@ -69,15 +61,7 @@ http://www.brreg.no/samordning/organisasjonsnummeret.html</content>
 	<content>Inndeling av kommuner i henhold til SSB sin standard https://www.ssb.no/klass/klassifikasjoner/131/koder </content>
   </field>
 
-   <field>
-	<name>Fylkesnavn</name>
-	<shortName>fylke</shortName>
-	<groupable>true</groupable>
-	<searchable>true</searchable>
-	<content>Inndeling av fylker i henhold til SSB sin standard https://www.ssb.no/klass/klassifikasjoner/104 </content>
-  </field>
-
-    <field>
+       <field>
 	<name>Dato</name>
 	<shortName>dato</shortName>
 	<groupable>false</groupable>
@@ -86,11 +70,11 @@ http://www.brreg.no/samordning/organisasjonsnummeret.html</content>
   </field>
 
     <field>
-	<name>Vedtatt beløp</name>
-	<shortName>beloep</shortName>
+	<name>Innvilget beløp</name>
+	<shortName>Innvilget_beloep</shortName>
 	<groupable>false</groupable>
 	<searchable>false</searchable>
-	<content>Vedtatt beløp som oppgitt av virkemiddelaktøren</content>
+	<content>Innvilget beløp som oppgitt av virkemiddelaktøren</content>
   </field>
 [...]
   </fields>
