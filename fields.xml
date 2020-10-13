@@ -24,7 +24,9 @@ http://www.brreg.no/samordning/organisasjonsnummeret.html</content>
 	<shortName>budsjettendring2020</shortName>
 	<groupable>true</groupable>
 	<searchable>true</searchable>
-	<content>Kategorisering av endring i virkemidlenes budsjett for 2020. </content>
+	<content>Alle virkemidler er klassifisert etter hvorvidt de har fått en økt ramme over statsbudsjettet 2020. 
+	Ekstraordinære tiltak er klassifisert som notifiserte tiltak i ESAs midlertidige rammeverk i tilknytning til den økonomiske krisen. 
+	NAVs ordinger er skilt ut i egne kategorier da disse tiltakene i større grad er rettet mot arbeidsmarkedet.  </content>
   </field>
  
  <field>
