@@ -1,0 +1,98 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+	<fields>
+  <field>
+	<name>Organisasjonsnummer</name>
+	<shortName>orgnr</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Organisasjonsnummer brukes for å identifisere juridiske personer (enheter), i Norge, og tildeles ved registrering i Enhetsregisteret. Organisasjonsnummeret består av ni siffer og starter på tallet 8 eller 9.
+http://www.brreg.no/samordning/organisasjonsnummeret.html</content>
+  </field>
+
+  <field>
+	<name>Bidragstype</name>
+	<shortName>bidragstype</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Kategorisering av type bidrag til foretak</content>
+  </field>
+
+  <field>
+	<name>Budsjettendring 2020</name>
+	<shortName>budsjettendring2020</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Kategorisering av endring i virkemidlenes budsjett for 2020. </content>
+  </field>
+ 
+ <field>
+	<name>Virkemiddel</name>
+	<shortName>virkemiddel</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Navn på virkemiddel</content>
+  </field>
+  
+  <field>
+	<name>Aktør</name>
+	<shortName>aktoer</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Navn på virkemiddelaktør som har gitt bidrag</content>
+  </field>
+     
+   <field>
+	<name>Næringskode</name>
+	<shortName>nace_5</shortName>
+	<groupable>true</groupable>
+	<searchable>false</searchable>
+	<content>Næringskode i henhold til SN2007 standard https://www.ssb.no/klass/klassifikasjoner/6 </content>
+  </field>
+
+   <field>
+	<name>Næringshovedområde</name>
+	<shortName>nace_hovedomraade</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Næringshovedområde i henhold til SN2007 standard https://www.ssb.no/klass/klassifikasjoner/6 </content>
+  </field>
+
+   <field>
+	<name>Kommunenummer</name>
+	<shortName>nace_hovedomraade</shortName>
+	<groupable>false</groupable>
+	<searchable>false</searchable>
+	<content>Inndeling av kommuner i henhold til SSB sin standard https://www.ssb.no/klass/klassifikasjoner/131/koder </content>
+  </field>
+
+   <field>
+	<name>Fylkesnavn</name>
+	<shortName>fylke</shortName>
+	<groupable>true</groupable>
+	<searchable>true</searchable>
+	<content>Inndeling av fylker i henhold til SSB sin standard https://www.ssb.no/klass/klassifikasjoner/104 </content>
+  </field>
+
+    <field>
+	<name>Dato</name>
+	<shortName>dato</shortName>
+	<groupable>false</groupable>
+	<searchable>false</searchable>
+	<content>Dato på format yyyymmdd</content>
+  </field>
+
+    <field>
+	<name>Vedtatt beløp</name>
+	<shortName>beloep</shortName>
+	<groupable>false</groupable>
+	<searchable>false</searchable>
+	<content>Vedtatt beløp som oppgitt av virkemiddelaktøren</content>
+  </field>
+[...]
+  </fields>
+</datasetFields>
+
+
+
