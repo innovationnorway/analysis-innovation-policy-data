@@ -13,4 +13,6 @@ All metadata and other information in [Felles Datakatalog](https://data.norge.no
 
 Field descriptions are documented in the file fields.xml
 
+The dataset is encoded as UTF-8
+
 For questions contact koronadata@innovasjonnorge.no
