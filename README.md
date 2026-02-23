@@ -3,7 +3,7 @@ During the corona crisis, the Norwegian government has initiated several extraor
 
 To be able to monitor the use of the measures, the Ministry of Trade and Industry has commissioned Innovation Norway to expand its reporting to include regularly updated data on how the measures affect the business community. Innovation Norway has, with the assistance of Economics Norway (Samfunnsøkonomisk Analyse AS), also obtained information on schemes other than its own to get a more complete picture of the use of measures.
 
-__The dataset has been collected up until July 2023 in this repository. For newer versions of the dataset, please contact Øystein Sjølie at oystein.sjolie@innovasjonnorge.no.__  
+__The dataset has been collected up until July 2023 in this repository. For newer versions of the dataset, please contact Innovation Norway at data@innovasjonnorge.no.__  
 An updated visualisation of the data made in PowerBI is published on the webpage of the Norwegian Goverment [Link](https://www.regjeringen.no/no/tema/naringsliv/sporsmal-og-svar-for-norske-bedrifter-om-koronautbruddet/koronadata/id2740151/)
 
 ## License
@@ -16,4 +16,4 @@ Field descriptions are documented in the file fields.xml
 
 The dataset is encoded as UTF-8
 
-For questions contact oystein.sjolie@innovasjonnorge.no
+For questions contact data@innovasjonnorge.no
